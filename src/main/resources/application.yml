@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: mn_controller_ver3
+netty:
+  default:
+    allocator:
+      max-order: 3
